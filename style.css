@@ -1,6 +1,6 @@
 p{
     text-align:  center;
-   background: #cccccc; 
+   background: #d61c1c
 }
 body{
     background:#FF00FF;
@@ -10,5 +10,5 @@ h1{
     text-align:center;
 }
 em strong{
-    color:aqua;
+    color:aqua;#FF00FF
 }
