@@ -1,13 +1,12 @@
-p{
-    text-align:  center;
-   background: #d61c1c
-}
 body{
     background:#FF00FF;
 
 }
 h1{ 
     text-align:center;
+}
+p{
+    text-align:  center;
 }
 em strong{
     color:aqua;#FF00FF
